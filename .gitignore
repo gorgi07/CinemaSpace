@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+node_modules/
+.next/
+.pytest_cache/
+*.log
+
+secrets/*.json
+.env
